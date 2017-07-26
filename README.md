@@ -5,7 +5,7 @@ following the TLS SNI handshake, replaying the ClientHello and establishing a se
 two endpoints which may be unable or unwilling to otherwise establish direct communications with each other.
 
 This module is a intended as a testbed for research around decentralization and
-inspired by the transport layer in the [https://github.com/fabiolb/fabio](Fabio) load
+inspired by the transport layer in the [Fabio](https://github.com/fabiolb/fabio) load
 balancing HTTPS and TCP router.
 
 ## Synopsis
@@ -28,3 +28,4 @@ This package is maintained as part of the the
 ```sh
 go build
 ```
+
